@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GuessTheNumber</string>
+    <string name="descriptionIcon">Icono</string>
+    <string name="tap">Tap on Generate to Start</string>
+    <string name="theEye">The Eye</string>
+    <string name="up">Up</string>
+    <string name="down">Down</string>
+    <string name="generate">Generate</string>
+    <string name="guessed">Guessed</string>
+</resources>
